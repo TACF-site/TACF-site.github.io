@@ -1,0 +1,52 @@
+        .tam {
+            width: 130px;
+            text-align: center;
+        }
+
+        .top {
+            padding-top: 6.5px;
+        }
+
+        .show {
+            display: block !important;
+        }
+
+        .hide {
+            display: none !important;
+        }
+
+        .E {
+            background-color: #006ccb !important;
+        }
+
+        .MB {
+            background-color: #0089de !important;
+        }
+
+        .B {
+            background-color: #36aaf2 !important;
+        }
+
+        .S {
+            background-color: #7fcbff !important;
+        }
+
+        .ZT {
+            background-color: #bdbbc3 !important;
+        }
+
+        .R {
+            background-color: #ff6e75 !important;
+        }
+
+        .I {
+            background-color: #ff6e75 !important;
+        }
+
+        .ocultar {
+            display: none !important;
+        }
+
+        .exibir {
+            display: block !important;
+        }
